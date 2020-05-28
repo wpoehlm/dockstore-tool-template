@@ -1,6 +1,6 @@
 # dockstore-tool-template
 A template project for setting up a containerized CWL Tool.
-
+Testing a commit and merge
 # Description
 
 This template sets up an opinionated way to organize Docker, CWL, and
